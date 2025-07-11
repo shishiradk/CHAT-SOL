@@ -18,7 +18,7 @@ cursor.execute('''Insert Into Student values('Shishir','Data Science','A',90)'''
 cursor.execute('''Insert Into Student values('Rohit','Data Science','B',85)''')
 cursor.execute('''Insert Into Student values('Anjali','Data Science','A',95)''')
 cursor.execute('''Insert Into Student values('Priya','Data Science','B',80)''')
-cursor.execute('''Insert Into Student values('Rahul','Data Science','A',88)''')
+cursor.execute('''Insert Into Student values('Rahul','Data Science','A',70)''')
 
 ## Display all the records
 print("The inserted records are")
